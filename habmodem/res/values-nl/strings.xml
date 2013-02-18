@@ -1,0 +1,83 @@
+<resources>
+
+    <string name="app_name">HAB Modem and Tracker</string>
+    
+        
+    <!-- displayed in menu at top of screen -->
+    <string name="status_screen">Decodeerder</string>
+	<string name="map_screen">Kaart</string>
+	<string name="menu_settings">Instellingen</string>
+	<string name="settings_screen">Instellingen</string>
+	<string name="log_screen">Logboeken</string>
+	<string name="refresh_button">Ververs</string>
+	
+	
+	<!-- titles of windows and dialogs -->
+	
+    <string name="dialog_logs_title">Recente logboek berichten</string>
+    <string name="title_activity_prefs">Instellingen</string>
+    <string name="title_activity_status_screen">Decodeerder</string>
+    <string name="title_activity_map">HAB tracker</string>
+    <string name="title_activity_start">HAB tracker</string>
+    <string name="dialog_graphs_title">Grafieken</string>
+    <string name="location_dialog">Mijn locatie</string>
+    
+
+    
+    
+    <!--  contents of preference screen -->
+    
+    <string name="pref_callsign">Roepletter</string>
+    <string name="pref_habitat_update_title">Habitat verversinterval (minuten)</string>
+    <string name="pref_habitat_update_summ">Tijd tussen het ophalen van nieuwe data van de server</string>
+    <string name="pref_habitat_lines_title">Maximaal aantal database entries</string>
+    <string name="pref_chase_update_title">Achtervolgingsauto verversinterval (seconden)</string>
+    <string name="pref_chase_update_summ">Aantal seconden tussen de achtervolgingsauto positie update</string>
+    <string name="pref_habitat_lines_summ">Set the maximum number of lines returned by a data fetch query</string>
+    <string name="pref_inactive_title">Inactivity Timeout Period (minuten)</string>
+    <string name="pref_inactive_summ">Set the inactive period for the decoder and data fetch queries</string>
+    <string name="pref_callsign_summ">Vul een roepletter in om je ontvanger te identificeren</string>
+    <string name="pref_habitat_server">Habitat server URL</string>
+    <string name="pref_habitat_db">Habitat database naam</string>
+    <string name="pref_habitat_server_summ">Vul het adres van de habitat-server in</string>
+    <string name="pref_habitat_db_summ">Vul de databasenaam in</string>
+    <string name="pref_advanced">Geavanceerde instellingen</string>
+    <string name="pref_map_path">Locatie van .map bestand</string>
+    <string name="pref_map_path_summ">Vul de locatie van het .map bestand in</string>
+    
+    
+    <!-- strings used to display data -->
+    <string name="time">TIJD</string>
+    <string name="altitude">HOOGTE</string>
+    <string name="altitude_max">MAX</string>
+    <string name="latitude">LATITUDE</string>
+    <string name="longitude">LONGITUDE</string>
+    <string name="ascent_rate">OPSTIJGSNELHEID</string>
+    
+    
+    <!--  select payload dialog -->
+    <string name="add_button_description">Voeg een payload toe om te volgen</string>
+    <string name="dialog_add_payload_title">Selecteer payload</string>
+    <string name="dialog_add_payload_body">Selecteer of voeg payload toe om te volgen</string>
+    
+    
+    
+    
+    <!--  generic -->
+    <string name="cancel">Annuleren</string>
+    <string name="accept">OK</string>
+    
+    
+    <!-- first run messages -->
+    <string name="firstruntitle">WAARSCHUWING</string>
+    <string name="firstrunmessage">This app provides mapping data which can be used for navigation. The app does not provide audio prompts and so must never be used while driving a motor vehicle. No guarantee of correctness is given for data presented by this app.</string>
+    <string name="firstruncontinue">Ik ga akkoord</string>
+    <string name="maphelpermessage">This app requires Open Street Map data in the mapsforge (.map) format. Please download maps for your region from download.mapsforge.org/maps/ and select a file when done.</string>
+    <string name="maphelpercontinue">Selecteer kaartbestand</string>
+    <string name="maphelpernomap">Gebruik geen kaarten</string>
+    <string name="mapshelptitle">Over kaarten</string>
+    
+    
+    
+
+</resources>
