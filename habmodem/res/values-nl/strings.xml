@@ -5,14 +5,14 @@
         
     <!-- displayed in menu at top of screen -->
     <string name="status_screen">Decodeerder</string>
-	<string name="map_screen">Kaart</string>
-	<string name="menu_settings">Instellingen</string>
-	<string name="settings_screen">Instellingen</string>
-	<string name="log_screen">Logboeken</string>
-	<string name="refresh_button">Ververs</string>
+    <string name="map_screen">Kaart</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="settings_screen">Instellingen</string>
+    <string name="log_screen">Logboeken</string>
+    <string name="refresh_button">Ververs</string>
 	
 	
-	<!-- titles of windows and dialogs -->
+    <!-- titles of windows and dialogs -->
 	
     <string name="dialog_logs_title">Recente logboek berichten</string>
     <string name="title_activity_prefs">Instellingen</string>
@@ -32,7 +32,7 @@
     <string name="pref_habitat_update_summ">Tijd tussen het ophalen van nieuwe data van de server</string>
     <string name="pref_habitat_lines_title">Maximaal aantal database entries</string>
     <string name="pref_chase_update_title">Achtervolgingsauto verversinterval (seconden)</string>
-    <string name="pref_chase_update_summ">Aantal seconden tussen de achtervolgingsauto positie update</string>
+    <string name="pref_chase_update_summ">Aantal seconden tussen de achtervolgingsauto positie updates</string>
     <string name="pref_habitat_lines_summ">Set the maximum number of lines returned by a data fetch query</string>
     <string name="pref_inactive_title">Inactivity Timeout Period (minuten)</string>
     <string name="pref_inactive_summ">Set the inactive period for the decoder and data fetch queries</string>
